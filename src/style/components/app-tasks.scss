@@ -1,0 +1,13 @@
+.tasks {
+  &__task {
+    padding-top: 40px;
+  }
+}
+
+.task {
+  &__list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+}

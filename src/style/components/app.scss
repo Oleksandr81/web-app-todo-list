@@ -1,0 +1,25 @@
+.header {
+  position: fixed;
+  width: 100%;
+  background-color: #FF4F5A;
+  z-index: 100;
+}
+
+.main {
+  max-width: 1738px;
+  position: relative;
+  display: flex;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+.section__tasks {
+  width: 1166px;
+  margin-left: 300px;
+  padding: 89px 15px 30px;
+}
+
+.tasks__container {
+  max-width: 1090px;
+  margin: 0 auto;
+}
